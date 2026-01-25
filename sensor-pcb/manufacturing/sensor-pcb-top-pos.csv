@@ -1,0 +1,16 @@
+Designator,Val,Package,MidX,MidY,Rotation,Layer
+C1,1u,C_0402_1005Metric,-2.6,-9.3,-90,top
+C2,470n,C_1206_3216Metric,4.1,-9.4,180,top
+C3,10u,C_0805_2012Metric,-0.5,-12.5,180,top
+J1,Conn_01x03,CONN03_22289031_MOL,-3.26,-12.3,0,top
+J2,Conn_01x02,CONN02_22288021_MOL,5.445,-12.3,0,top
+J3,Conn_01x01_Socket,0666-0-15-15-32-27-10-0,8,-12.4,0,top
+J4,Conn_01x01_Socket,0666-0-15-15-32-27-10-0,9.5,-9.4,0,top
+Q2,BSS84,SOT-23,-0.5,-9.5,270,top
+R1,10k,R_0402_1005Metric,-4,-8.8,180,top
+R2,11k5,R_0402_1005Metric,-10.6,-9.4,-90,top
+R3,11k5,R_0402_1005Metric,-9.6,-9.4,90,top
+R4,100k,R_0402_1005Metric,-4,-9.8,180,top
+R5,2k2,R_0402_1005Metric,-4,-10.8,0,top
+RV1,10k,alps-rcd50-smd,-3,9.75,90,top
+U1,TLV2371DBV,SOT-23-5,-7,-9.8,90,top
