@@ -17,3 +17,5 @@ Non-comprehensive list of potentially applicable part numbers:
  - 7L0907512F (supersedes 7L0907512)
  - 7L0907511AB
  - 7L0907511AD 
+
+![alt text](replacement-sensor.png)
